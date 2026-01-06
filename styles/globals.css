@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@import "./briefing-premium.css";
+
 
 :root {
   --background: #ffffff;
